@@ -41,7 +41,7 @@ FLOOD_INTERVAL = 1
 
 # Данные для базы данных PostgreSQL или MySQL
 # DATABASE_SETTINGS = ("DATABASE NAME", "HOST", PORT, "USER", "PASSWORD")
-DATABASE_SETTINGS = ("d4tubp87urtimo", "ec2-79-125-125-97.eu-west-1.compute.amazonaws.com", 5432, "skcxqmjmhjhbem", "2bc1afea32c60f73c4b005dad97fc0356c2d27f905d59fd08f98b2e24ee5e8a6")
+DATABASE_SETTINGS = ("dmobi9gu58bjt", "ec2-54-217-235-11.eu-west-1.compute.amazonaws.com", 5432, "jghezjxajssgjc", "483ef42e8043c757aae248a2ff5be22571fe15f9742c018d7c0e918e50bfe3d5")
 DATABASE_DRIVER = "postgresql"  #  Может принимать значения: mysql, postgresql
 DATABASE_CHARSET = 'utf8mb4'  # utf8mb4, latin1 и т.д.
 
